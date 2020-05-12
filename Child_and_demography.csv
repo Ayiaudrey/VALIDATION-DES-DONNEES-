@@ -1,0 +1,63 @@
+Rang_IDH;Niveau_IDH;Pays;Survey_year;Birth_attended_Poor;Birth_attended_Rich;One-year-olds_immunized_Poor;One-year-olds_immunized_Rich;Child_underheight_Poor ;Child_underheight_Rich;IMR_Poor;IMR_Rich;Under5_MR_Poor;Under5_MR_Rich
+70;High Human Development;Brazil;1996;72;99;57;74;23;2;83;29;99;33
+73;Meduim Human Development;Kazakhstan;1999;99;99;69;62;15;8;68;42;82;45
+75;Meduim Human Development;Colombia;2005;72;99;47;72;20;3;32;14;39;16
+78;Meduim Human Development;Thailand;2006;93;100;92;86;16;7;;;;
+79;Meduim Human Development;Dominican Republic;1996;89;98;34;47;14;2;67;23;90;27
+83;Meduim Human Development;Armenia;2005;96;100;59;51;15;8;41;14;52;23
+84;Meduim Human Development;Turkey;1998;53;98;28;70;29;4;68;30;85;33
+86;Meduim Human Development;Jordan;1997;91;99;21;17;14;5;35;23;42;25
+87;Meduim Human Development;Peru;2005;34;100;65;73;46;4;46;6;63;11
+90;Meduim Human Development;Philippines;2003;25;92;56;83;;;42;19;66;21
+95;Meduim Human Development;Paraguay;1990;41;98;20;53;23;3;43;16;57;20
+105;Meduim Human Development;Viet Nam;2002;58;100;44;92;;;39;14;53;16
+107;Meduim Human Development;Indonesia;1997;21;89;43;72;;;78;23;109;29
+109;Meduim Human Development;Turkmenistan;2000;97;98;85;78;25;17;89;58;106;70
+110;Meduim Human Development;Nicaragua;2001;78;99;64;71;35;5;50;16;64;19
+111;Meduim Human Development;Moldova;2005;99;100;86;86;14;6;20;16;29;17
+112;Meduim Human Development;Egypt;2005;51;96;85;91;24;14;59;23;75;25
+113;Meduim Human Development;Uzbekistan;1996;92;100;81;78;40;31;54;46;70;50
+116;Meduim Human Development;Kyrgyzstan;1997;96;100;69;73;34;14;83;46;96;49
+117;Meduim Human Development;Bolivia;2003;27;98;48;57;42;5;72;27;105;32
+118;Meduim Human Development;Guatemala;1999;9;92;66;56;65;8;58;39;78;39
+119;Meduim Human Development;Gabon;2000;67;97;6;24;33;12;57;36;93;55
+121;Meduim Human Development;South Africa;1998;68;98;51;70;;;62;17;87;22
+122;Meduim Human Development;Tajikistan;2006;69;91;;;32;21;;;;
+125;Meduim Human Development;Namibia;2000;55;97;60;68;27;15;36;23;55;31
+126;Meduim Human Development;Morocco;2004;30;95;81;97;29;10;62;24;78;26
+128;Meduim Human Development;India;1999;16;84;21;64;58;27;97;38;141;46
+131;Meduim Human Development;Cambodia;2005;21;90;56;76;47;19;101;34;127;43
+134;Meduim Human Development;Comoros;1996;26;85;40;82;45;23;87;65;129;87
+135;Meduim Human Development;Ghana;2006;;;62;86;31;7;75;64;118;100
+136;Meduim Human Development;Pakistan;1990;5;55;23;55;61;33;89;63;125;74
+137;Meduim Human Development;Mauritania;2001;15;93;16;45;39;23;61;62;98;79
+138;Meduim Human Development;Lesotho;2004;34;83;66;69;47;25;88;70;114;82
+139;Meduim Human Development;Congo;2005;70;98;29;73;32;20;91;56;135;85
+140;Meduim Human Development;Bangladesh;2004;3;40;57;87;54;25;90;65;121;72
+142;Meduim Human Development;Nepal;2001;4;45;54;82;62;36;86;53;130;68
+143;Meduim Human Development;Madagascar;2004;30;94;32;80;51;38;87;33;142;49
+144;Meduim Human Development;Cameroon;2004;29;94;36;60;41;12;101;51;189;88
+146;Meduim Human Development;Haiti;2006;6;68;34;56;34;5;78;45;125;55
+148;Meduim Human Development;Kenya;2003;17;75;40;65;38;19;96;62;149;91
+151;Meduim Human Development;Zimbabwe;1999;57;94;64;64;33;19;59;44;100;62
+152;Meduim Human Development;Togo;1998;25;91;22;52;29;11;84;66;168;97
+153;Meduim Human Development;Yemen;1997;7;50;8;56;58;35;109;60;163;73
+154;Meduim Human Development;Uganda;2001;20;77;27;43;43;25;106;60;192;106
+156;Low Human Development;Senegal;2005;20;89;59;65;26;6;89;41;183;64
+157;Low Human Development;Eritrea;2002;7;81;74;91;45;18;48;38;100;65
+158;Low Human Development;Nigeria;2003;12;84;3;40;49;18;133;52;257;79
+159;Low Human Development;Tanzania (United Republic of);1999;29;83;53;78;50;23;115;92;160;135
+160;Low Human Development;Guinea;2005;15;87;29;45;41;22;127;68;217;113
+161;Low Human Development;Rwanda;2005;27;66;74;74;55;30;114;73;211;122
+163;Low Human Development;Benin;2001;50;99;49;73;35;18;112;50;198;93
+164;Low Human Development;Malawi;2000;43;83;65;81;26;23;132;86;231;149
+165;Low Human Development;Zambia;2002;20;91;64;80;54;32;115;57;192;92
+166;Low Human Development;Côte d'Ivoire;2005;27;88;;;;;93;79;150;100
+169;Low Human Development;Ethiopia;2005;1;27;14;36;48;35;80;60;130;92
+170;Low Human Development;Chad;2004;4;55;1;24;51;32;109;101;176;187
+171;Low Human Development;Central African Republic;1995;14;82;18;64;42;25;132;54;193;98
+172;Low Human Development;Mozambique;2003;25;89;45;90;49;20;143;71;196;108
+173;Low Human Development;Mali;2001;8;82;20;56;45;20;137;90;248;148
+174;Low Human Development;Niger;2006;21;71;20;48;54;37;91;67;206;157
+176;Low Human Development;Burkina Faso;2003;39;91;34;61;46;21;97;78;206;144
+177;Low Human Development;Sierra Leone;2005;27;83;;;44;26;159;108;268;179

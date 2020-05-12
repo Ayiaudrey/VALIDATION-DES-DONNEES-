@@ -1,0 +1,105 @@
+{
+    "name": "child_and_demography",
+    "title": "schema_Json",
+    "description": "realisation du Json_schema",
+    "fields": [
+        {
+            "name": "Rang_IDH",
+            "title": "Rang_IDH",
+            "type": "integer",
+            "description": "Classement des pays selon leur niveau de l'IDH."
+        },
+        {
+            "name": "Niveau_IDH",
+            "title": "Niveau de l'IDH",
+            "type": "string",
+            "description": "Niveau de l'IDH pour chaque pays.",
+			"constraints": {
+                "enum": [
+                    "High Human Development", 
+                    "Meduim Human Development",  
+                    "Low Human Development"
+				]	
+			}	
+        },
+        {
+            "name": "Pays",
+            "title": "Pays",
+            "type": "string",
+            "description": "Nom de chaque pays."
+        },
+        {
+            "name": "Survey_year",
+            "title": "Survey_year",
+            "type": "year",
+            "description": "year of survey for every country."
+        },
+        {
+            "name": "Birth_attended_Poor",
+            "title": "Births attended by skilled health personnel Poorest 20%",
+            "type": "number",
+            "description": "Births attended by skilled health personnel Poorest 20%."
+        },
+        {
+            "name": "Birth_attended_Rich",
+            "title": "Births attended by skilled health personnel Richest 20%",
+            "type": "number",
+            "description": "Births attended by skilled health personnel Richest 20%."
+        },
+        {
+            "name": "One-year-olds_immunized_Poor",
+            "title": "One-year-olds immunized_Poorest 20%",
+            "type": "number",
+            "description": "One-year-olds immunized_Poorest 20%."
+        },
+        {
+            "name": "One-year-olds_immunized_Rich",
+            "title": "One-year-olds immunized_Richest 20%",
+            "type": "number",
+            "description": "One-year-olds immunized_Richest 20%."
+		},
+		{
+			
+			"name": "Child_underheight_Poor",
+            "title": "Child_underheight_Poorest 20%",
+            "type": "number",
+            "description": "Children under height for age Poorest 20%."
+		
+		},
+		{
+			"name": "Child_underheight_Rich",
+            "title": "Child_underheight_ Richest 20%",
+            "type": "number",
+            "description": "Children under height for age Richest 20%."
+		},
+		{
+		
+			"name": "IMR_Poor",
+            "title": "Infant mortality rate Poorest 20%",
+            "type": "number",
+            "description": "Infant mortality rate per 1,000 live births Poorest 20%."
+        },
+		{
+			
+			"name": "IMR_Rich",
+            "title": "Infant mortality rate Richest 20%",
+            "type": "number",
+            "description": "Infant mortality rate per 1,000 live births Richest 20%."
+		},
+        {		
+			
+			"name": "Under5_MR_Poor",
+            "title": "Under-five mortality rate Poorest 20%",
+            "type": "number",
+            "description": "Under-five mortality rate per 1,000 live births Poorest 20%."
+		},
+        { 		
+			
+			"name": "Under5_MR_Rich",
+            "title": "Under-five mortality rate Richest 20%",
+            "type": "number",
+            "description": "Under-five mortality rate per 1,000 live births Richest 20%."
+        }
+    ],
+    "missingValues": [" ","..","NaN"]
+}
